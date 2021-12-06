@@ -1,0 +1,22 @@
+input {
+    margin-top: 10px;
+}
+
+header {
+    text-align: center;
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#submit-btn {
+    margin-left: 18px;
+}
+
+#score-message {
+    margin-top:20px;
+}
+
+p {
+    margin-top: 50px;
+    color: white;
+}
